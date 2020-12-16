@@ -1,2 +1,2 @@
-# idhaya-r.github.io
+# Idhaya Portfolio
 Portfolio website
